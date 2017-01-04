@@ -85,6 +85,13 @@ form input[type=text] {
 
 .friend {
     color: #fff;
+    font-weight: bold;
     background-color: #0090da;
 }
 
+.post {
+    border: 2px dashed steelblue;
+    border-radius: 6px;
+    margin: 20px;
+    padding: 20px;
+}
